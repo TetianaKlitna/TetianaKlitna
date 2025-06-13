@@ -14,6 +14,6 @@ I’m passionate about building **user-focused web applications** and continuous
 ## 🧰 Tech Stack
 
 **Frontend:** React, JavaScript, HTML, CSS, Vite, MUI  
-**Backend & Data:** Oracle SQL, Power BI  
+**Backend & Data:** Oracle SQL, PL/SQL, Power BI  
 **Cloud & DevOps:** AWS Certified, Git, GitHub  
 **Project Tools:** Agile, JIRA
