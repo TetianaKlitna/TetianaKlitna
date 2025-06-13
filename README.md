@@ -23,7 +23,7 @@ I’m passionate about building **user-focused web applications** and continuous
 
 **TripON is your personalized travel assistant!**  
 **TripON** is an AI-powered travel assistant developed as part of a group project during an advanced frontend practicum.  
-Our team of 5 developers worked together to build a dynamic web application that allows users to search hotels, make bookings, and generate personalized travel plans with the help of **Gemini AI**.
+**Our team of 5 developers** worked together to build a dynamic web application that allows users to search hotels, make bookings, and generate personalized travel plans with the help of **Gemini AI**.
 
 🔗 [GitHub Repository](https://github.com/TetianaKlitna/tripOn-front)
 
