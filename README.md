@@ -78,7 +78,3 @@ It allows users to create, view, search, edit, and manage tasks efficiently — 
 
 - 🌗 **Light & Dark Modes**  
   Toggle between light and dark themes for visual comfort in any environment.
-
-### 🎯 Conclusion
-
-The Ibis ToDo App is a straightforward and user-friendly task tracker built with responsive design and accessibility in mind. It’s a perfect tool for managing daily tasks and staying on top of what matters.
