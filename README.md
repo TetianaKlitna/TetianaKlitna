@@ -2,10 +2,8 @@
 
 🔍 I'm a software engineer based in Seattle, WA, actively exploring returnship opportunities.
 
-
-• [LinkedIn](https://www.linkedin.com/in/tetianaklitna/) 
-• [GitHub](https://github.com/TetianaKlitna)
-
+[LinkedIn https://www.linkedin.com/in/tetianaklitna/]
+[Gmail: klitna.tetiana@gmail.com]
 ---
 
 ## 🧰 Tech Stack
