@@ -27,12 +27,6 @@ Powered by **Gemini AI**, TripON tailors travel plans to match user preferences,
 
 🔗 [GitHub Repository](https://github.com/TetianaKlitna/tripOn-front)
 
-### 🎯 Project Goal  
-Enable users to:
-- 🔍 Search hotels, view details, and make reservations  
-- 🗂️ Organize trips with ease  
-- 🤖 Generate personalized travel plans with the help of Gemini AI
-
 ### 🚀 Key Features (MVP) — *All contributed by me*
 
 - ✅ **User Registration & Login**  
@@ -53,3 +47,38 @@ Enable users to:
   I helped build the frontend interface and integrated it with backend AI endpoints for seamless travel plan generation.  
   Collaborated with **Tegegnwork Checol**, who created the input form for the AI planner to collect user preferences.
 
+---
+
+## 📝 Ibis ToDo App — Personal Project
+
+**The Ibis ToDo App** is a simple, intuitive task management tool that helps users stay organized and productive.  
+It allows users to create, view, search, edit, and manage tasks efficiently — whether at home, in the office, or on the go.
+
+🔗 [GitHub Repository](https://github.com/TetianaKlitna/react-todo)
+
+### 🛠️ Key Features
+
+- 📋 **Task List**  
+  View all tasks with key information such as title, priority, due date, completed date, and description.
+
+- ➕ **Add New Task**  
+  Easily create tasks with a title, priority level, due date, and optional description.
+
+- 🔍 **Search by Title**  
+  Quickly find tasks using a built-in title search function.
+
+- ✏️ **Edit Tasks**  
+  Update the title, priority, due date, or description for any task at any time.
+
+- 🔒 **Read-Only Mode**  
+  View tasks in a non-editable format to avoid accidental changes.
+
+- 📱 **Responsive Design**  
+  Fully responsive layout optimized for mobile, tablet, and desktop screens.
+
+- 🌗 **Light & Dark Modes**  
+  Toggle between light and dark themes for visual comfort in any environment.
+
+### 🎯 Conclusion
+
+The Ibis ToDo App is a straightforward and user-friendly task tracker built with responsive design and accessibility in mind. It’s a perfect tool for managing daily tasks and staying on top of what matters.
