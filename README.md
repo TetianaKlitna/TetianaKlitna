@@ -1,6 +1,9 @@
 # 👋 Hi there, I'm Tetiana Klitna!
 
-I'm a software engineer based in Seattle, WA, currently exploring **returnship opportunities**. I’m passionate about building user-focused web applications and enjoy working across both frontend and backend technologies.
+I'm a software engineer based in Seattle, WA, currently exploring **returnship opportunities**.  
+I have a strong background in **Oracle SQL development** and enjoy working across both **frontend and backend technologies**.  
+I’m passionate about building **user-focused web applications** and continuously learning modern tools and practices to improve the user experience.
+
 
 📫 **Contact me:**  
 - https://www.linkedin.com/in/tetianaklitna/
