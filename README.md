@@ -3,7 +3,7 @@
 I'm a software engineer based in Seattle, WA, currently exploring **returnship opportunities**. I’m passionate about building user-focused web applications and enjoy working across both frontend and backend technologies.
 
 📫 **Contact me:**  
-- [LinkedIn](https://www.linkedin.com/in/tetianaklitna/)  
+- https://www.linkedin.com/in/tetianaklitna/
 - 📧 klitna.tetiana@gmail.com  
 
 ---
