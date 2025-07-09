@@ -32,7 +32,7 @@ I’m passionate about building **user-focused web applications** and continuous
 - ✅ **User Registration & Login**  
   Provides secure account access with the ability to view and manage bookings, saved stays, and personalized travel plans.  
   I implemented the authentication flow using **Auth Context** and **js-cookie** to securely manage user session data across the app.  
-  Collaborated with **Uma Sekar** on frontend authentication and session handling to ensure a seamless and reliable user experience.
+  Collaborated with **frontend team** on frontend authentication and session handling to ensure a seamless and reliable user experience.
 
 - ✅ **Hotel Booking with Availability Calendar View**  
   Explore hotel availability via an interactive calendar and book rooms directly from the platform.  
@@ -45,7 +45,7 @@ I’m passionate about building **user-focused web applications** and continuous
 - ✅ **AI Travel Planner**  
   Gemini AI generates personalized travel plans based on user inputs, travel preferences, and selected hotels.  
   I helped build the frontend interface and integrated it with backend AI endpoints for seamless travel plan generation.  
-  Collaborated with **Tegegnwork Checol**, who created the input form for the AI planner to collect user preferences.
+  Collaborated with **frontend team**, who created the input form for the AI planner to collect user preferences.
 
 ---
 
