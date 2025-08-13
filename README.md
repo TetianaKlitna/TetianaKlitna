@@ -19,6 +19,10 @@ I’m passionate about building **user-focused web applications** and continuous
 
 ---
 
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=TetianaKlitna)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 ## 🌍 TripON: AI-Powered Travel Planning Web App — Group Project
 
 **TripON is your personalized travel assistant!**  
