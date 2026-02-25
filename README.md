@@ -93,53 +93,13 @@ It improves the visitor experience and reduces operational overhead by creating 
 
 ## 🎯 Features
 
-### 🔐 Authentication & Roles
-- Secure user authentication
-- Admin role-based access
-- Password reset functionality
-
-### 🏠 Homepage
-- Hero media section
-- Clear call-to-action buttons
-- Enhanced UX structure
-
-### 🦎 Animals & Education
-- Animal catalog
-- Educational content
-- Search and filtering system
-
-### 📅 Calendar & Scheduling
-- Interactive calendar
-- Business hours display
-- Closures and special events
-
-### 🎟️ Booking System
-- Online visit booking
-- Booking management tools
-
-### 🛠️ Admin Dashboard
-- Manage animals and educational content
-- Update schedules and hours
-- Gallery management
-- Inquiry handling
-
-### 📩 Communication
-- Contact form
-- Inquiry management tools
-
-### 🌎 Internationalization
-- Multi-language UI
-- Language selector
-
-### 🖼️ Gallery
-- Album organization
-- Lightbox view
-- Admin uploads
-
-### 🤝 Volunteer Tools
-- Volunteer applications
-- Volunteer scheduling tools
-
-### 📱 Responsive Design
-- Fully responsive layout
-- Optimized for mobile and desktop
+- 🔐 Authentication with admin roles
+- 🦎 Animal & education catalog with search
+- 📅 Interactive calendar (hours, events, closures)
+- 🎟️ Online visit booking
+- 🛠️ Admin dashboard for content management
+- 📩 Contact & inquiry management
+- 🖼️ Photo gallery with admin uploads
+- 🤝 Volunteer applications
+- 🌎 Multi-language support
+- 📱 Fully responsive design
