@@ -61,7 +61,7 @@ Built for:
 
 ## 🔗 GitHub Repository
 
-[THE REPTILE ZOO](https://github.com/TetianaKlitna/THE-REPTILE-ZOO)
+[GitHub Repository](https://github.com/TetianaKlitna/THE-REPTILE-ZOO)
 
 ---
 
