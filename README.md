@@ -49,29 +49,97 @@ I’m passionate about building **user-focused web applications** and continuous
 
 ---
 
-## 📝 Reptile Zoo logo THE REPTILE ZOO 🦎🐍🐊
-A full-stack web app for Reptile Zoo visitors and staff to browse animals and events, book visits, and manage schedules and content.
-Built for guests seeking planning info and admins who maintain the zoo's daily operations.
+# 🦎🐍🐊 THE REPTILE ZOO
 
+A full-stack web application for **Reptile Zoo visitors and staff** to browse animals, explore events, book visits, and manage schedules and content.
 
-🔗 [GitHub Repository]((https://github.com/TetianaKlitna/THE-REPTILE-ZOO))
+Built for:
+- 🧑‍🤝‍🧑 Guests planning their zoo visit
+- 🛠️ Admins maintaining daily operations
 
-🧠 Problem Statement
-It solves the problem of scattered or outdated zoo information by centralizing animals, events, hours, and bookings.
+---
 
-Who is this application for? Reptile Zoo visitors planning a trip and staff who manage daily content, schedules, and inquiries.
-What pain point does it address? Guests struggle to find reliable visit details, while staff waste time updating multiple channels.
-Why does this solution matter? It improves the visitor experience and reduces operational overhead with a single source of truth.
+## 🔗 GitHub Repository
 
-🎯 Features 🦎
-User authentication with admin roles and password reset
-Enhanced homepage with hero media and clear call-to-action
-Animals and education catalog with search and filters
-Interactive calendar for hours, closures, and events
-Online booking and visit management
-Admin dashboard for content, schedule, and gallery updates
-Contact form and inquiry management
-Multi-language UI with language selector
-Photo gallery with albums, lightbox, and admin uploads
-Volunteer applications and scheduling tools
-Responsive UI (mobile & desktop)
+[THE REPTILE ZOO](https://github.com/TetianaKlitna/THE-REPTILE-ZOO)
+
+---
+
+## 🧠 Problem Statement
+
+Zoo information is often scattered or outdated across different platforms.  
+This application centralizes:
+
+- 🦎 Animal information  
+- 📅 Events and schedules  
+- 🕒 Business hours and closures  
+- 🎟️ Booking management  
+
+### 👥 Who Is This Application For?
+
+- **Visitors** planning a trip to the Reptile Zoo  
+- **Staff and administrators** managing content, schedules, and visitor inquiries  
+
+### ⚡ What Pain Point Does It Address?
+
+- Guests struggle to find reliable, up-to-date visit details  
+- Staff waste time updating multiple disconnected systems  
+
+### 🌟 Why This Solution Matters
+
+It improves the visitor experience and reduces operational overhead by creating a **single source of truth** for all zoo-related information.
+
+---
+
+## 🎯 Features
+
+### 🔐 Authentication & Roles
+- Secure user authentication
+- Admin role-based access
+- Password reset functionality
+
+### 🏠 Homepage
+- Hero media section
+- Clear call-to-action buttons
+- Enhanced UX structure
+
+### 🦎 Animals & Education
+- Animal catalog
+- Educational content
+- Search and filtering system
+
+### 📅 Calendar & Scheduling
+- Interactive calendar
+- Business hours display
+- Closures and special events
+
+### 🎟️ Booking System
+- Online visit booking
+- Booking management tools
+
+### 🛠️ Admin Dashboard
+- Manage animals and educational content
+- Update schedules and hours
+- Gallery management
+- Inquiry handling
+
+### 📩 Communication
+- Contact form
+- Inquiry management tools
+
+### 🌎 Internationalization
+- Multi-language UI
+- Language selector
+
+### 🖼️ Gallery
+- Album organization
+- Lightbox view
+- Admin uploads
+
+### 🤝 Volunteer Tools
+- Volunteer applications
+- Volunteer scheduling tools
+
+### 📱 Responsive Design
+- Fully responsive layout
+- Optimized for mobile and desktop
