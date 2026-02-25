@@ -49,32 +49,29 @@ I’m passionate about building **user-focused web applications** and continuous
 
 ---
 
-## 📝 Ibis ToDo App — Personal Project
+## 📝 Reptile Zoo logo THE REPTILE ZOO 🦎🐍🐊
+A full-stack web app for Reptile Zoo visitors and staff to browse animals and events, book visits, and manage schedules and content.
+Built for guests seeking planning info and admins who maintain the zoo's daily operations.
 
-**The Ibis ToDo App** is a simple, intuitive task management tool that helps users stay organized and productive.  
-It allows users to create, view, search, edit, and manage tasks efficiently — whether at home, in the office, or on the go.
 
-🔗 [GitHub Repository](https://github.com/TetianaKlitna/react-todo)
+🔗 [GitHub Repository]((https://github.com/TetianaKlitna/THE-REPTILE-ZOO))
 
-### 🛠️ Key Features
+🧠 Problem Statement
+It solves the problem of scattered or outdated zoo information by centralizing animals, events, hours, and bookings.
 
-- 📋 **Task List**  
-  View all tasks with key information such as title, priority, due date, completed date, and description.
+Who is this application for? Reptile Zoo visitors planning a trip and staff who manage daily content, schedules, and inquiries.
+What pain point does it address? Guests struggle to find reliable visit details, while staff waste time updating multiple channels.
+Why does this solution matter? It improves the visitor experience and reduces operational overhead with a single source of truth.
 
-- ➕ **Add New Task**  
-  Easily create tasks with a title, priority level, due date, and optional description.
-
-- 🔍 **Search by Title**  
-  Quickly find tasks using a built-in title search function.
-
-- ✏️ **Edit Tasks**  
-  Update the title, priority, due date, or description for any task at any time.
-
-- 🔒 **Read-Only Mode**  
-  View tasks in a non-editable format to avoid accidental changes.
-
-- 📱 **Responsive Design**  
-  Fully responsive layout optimized for mobile, tablet, and desktop screens.
-
-- 🌗 **Light & Dark Modes**  
-  Toggle between light and dark themes for visual comfort in any environment.
+🎯 Features 🦎
+User authentication with admin roles and password reset
+Enhanced homepage with hero media and clear call-to-action
+Animals and education catalog with search and filters
+Interactive calendar for hours, closures, and events
+Online booking and visit management
+Admin dashboard for content, schedule, and gallery updates
+Contact form and inquiry management
+Multi-language UI with language selector
+Photo gallery with albums, lightbox, and admin uploads
+Volunteer applications and scheduling tools
+Responsive UI (mobile & desktop)
