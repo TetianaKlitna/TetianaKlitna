@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Tetiana Klitna! I'm a Full Stack Developer!
 
-I'm a **software engineer based in Seattle, WA**, currently exploring **returnship opportunities**.
+I'm a **software engineer based in Seattle, WA**.
 I have a background in **Oracle SQL development** and enjoy working across both **frontend and backend technologies**.
 I’m passionate about building **user-focused web applications** and continuously learning modern tools and practices to improve the user experience.
 
